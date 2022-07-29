@@ -13,9 +13,9 @@ This proccedure of going back and forth to analyse if my image process is really
 &nbsp;   1. IMG_Nump(txtdir,imgdir,boolean)
 &nbsp;   2. Txt_Nump(txtdir,imgdir,boolean,imgshape)
 - 3) Call the methods of the specified objects:
-&nbsp;  1. build_coe()
-&nbsp;  2. build_array()
-&nbsp;  3. create_the_img()   <br />
+&nbsp;  1. build_coe()<br />
+&nbsp;  2. build_array()<br />
+&nbsp;  3. create_the_img()<br />
 
 Such as 
 ```
@@ -26,9 +26,9 @@ testimg.build_coe()
 ```
 Main methods are:
 * 2nd use the methods:
-&nbsp;  * --> myclass_0.build_coe()
-&nbsp;  * --> myclass_1.build_array()
-&nbsp;  * --> myclass_1.create_the_img()
+&nbsp;  * --> myclass_0.build_coe()<br />
+&nbsp;  * --> myclass_1.build_array()<br />
+&nbsp;  * --> myclass_1.create_the_img()<br />
 
 
 
