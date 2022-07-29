@@ -13,17 +13,23 @@ This proccedure of going back and forth to analyse if my image process is really
 &nbsp;   1. IMG_Nump(txtdir,imgdir,boolean)
 &nbsp;   2. Txt_Nump(txtdir,imgdir,boolean,imgshape)
 - 3) Call the methods of the specified objects:
-&nbsp;  1. buildcoe()
-&nbsp;  2. buildarr()
-&nbsp;  3. createtheimg()   <br />
+&nbsp;  1. build_coe()
+&nbsp;  2. build_array()
+&nbsp;  3. create_the_img()   <br />
 
 Such as 
 ```
 import libary transform_img
 testimg = transform_img.IMG_nump()
-testimg.buildcoe()
+testimg.build_coe()
 
 ```
+Main methods are:
+* 2nd use the methods:
+&nbsp;  * --> myclass_0.build_coe()
+&nbsp;  * --> myclass_1.build_array()
+&nbsp;  * --> myclass_1.create_the_img()
+
 
 
 ![Gif: description](https://github.com/EnesErcin/Img_and_Coe_Exchanger/blob/main/Module/ezgif.com-gif-maker.gif)
