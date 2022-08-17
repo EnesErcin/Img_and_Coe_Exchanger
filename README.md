@@ -7,7 +7,7 @@ For some computer vision applications the image data should be represented as on
 This proccedure of going back and forth to analyse if my image process is really doing what it should do drove me crayz. I was tring the find each index on a .txt file plus I had to think about perfect addressing for filtering. So to apply image filtering you have to consider not only one index but all the indexes on choosen kernel which is truelly an impossible job. If you are not familer with computer vision basics I recomend __Victor Powells__ website which explained the positions of bits of an image perfectly [Link to resource 1*](https://setosa.io/ev/image-kernels/).
 
 
-## How to use the libary:
+## How to use the Module:
 - 1) Import the main by 
 - 2) Define an object: <br />
 &nbsp;   1. IMG_Nump(txtdir,imgdir,boolean)
